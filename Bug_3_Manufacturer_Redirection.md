@@ -14,7 +14,7 @@ Title is self-explanatory
 - Observe the redirection  
 
 #### PoC 
-[Video PoC](assets/videos/Page_Redirection.mp4)
+![Video PoC](assets/videos/Page_Redirection.mp4)
 
 #### Expected Result
 1. A user should be shown the products produced by a manufacturer 

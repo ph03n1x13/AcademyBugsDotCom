@@ -15,7 +15,7 @@ a non-responsive state.
 - Observer the page behaviour
 
 #### PoC  
-[Video PoC](/assets/videos/UI_Crash.mp4)
+![Video PoC](/assets/videos/UI_Crash.mp4)
 
 #### Expected Result   
 Frontend should filter the available number of product based on the clicked `View` filter number. 

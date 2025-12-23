@@ -16,7 +16,7 @@ remains USD `$` in the frontend
 - Observe the Price currency  
 
 #### PoC
-[Video PoC](/assets/videos/Currency_Crash.mp4)
+![Video PoC](/assets/videos/Currency_Crash.mp4)
 
 #### Expected Result
 The currency value should be changed and converted to USD market price as per the selected currency from the dropdown.
